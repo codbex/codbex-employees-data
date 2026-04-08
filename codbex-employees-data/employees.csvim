@@ -3,46 +3,50 @@
     {
       "table": "CODBEX_GENDER",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/genders.csv",
+      "file": "/codbex-employees-data/gender/genders.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": ""
+      "version": "1.0",
+      "sequence": "CODBEX_GENDER_SEQ"
     },
     {
       "table": "CODBEX_GENDER_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/genders-lang.csv",
+      "file": "/codbex-employees-data/gender/genders-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": ""
+      "version": "1.0",
+      "sequence": "CODBEX_GENDER_LANG_SEQ"
     },
     {
       "table": "CODBEX_MARTIALSTATUS",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/martial-statuses.csv",
+      "file": "/codbex-employees-data/martial-status/martial-statuses.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": ""
+      "version": "1.0",
+      "sequence": "CODBEX_MARTIALSTATUS_SEQ"
     },
     {
       "table": "CODBEX_MARTIALSTATUS_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/martial-statuses-lang.csv",
+      "file": "/codbex-employees-data/martial-status/martial-statuses-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
-      "version": ""
+      "version": "1.0",
+      "sequence": "CODBEX_MARTIALSTATUS_LANG_SEQ"
     }
   ]
 }
