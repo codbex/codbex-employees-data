@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_GENDER",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/gender/genders.csv",
+      "file": "/codbex-employees-data/gender/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -15,7 +15,7 @@
     {
       "table": "CODBEX_GENDER_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/gender/genders-lang.csv",
+      "file": "/codbex-employees-data/gender/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -27,7 +27,7 @@
     {
       "table": "CODBEX_MARTIALSTATUS",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/martial-status/martial-statuses.csv",
+      "file": "/codbex-employees-data/martial-status/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -39,7 +39,7 @@
     {
       "table": "CODBEX_MARTIALSTATUS_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-employees-data/martial-status/martial-statuses-lang.csv",
+      "file": "/codbex-employees-data/martial-status/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
